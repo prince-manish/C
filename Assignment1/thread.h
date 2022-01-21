@@ -3,8 +3,7 @@
 
 #include <stdint.h>
 
-typedef struct
-{
+typedef struct {
     uint64_t tid;
     uint64_t pid;
     uint64_t tsw;

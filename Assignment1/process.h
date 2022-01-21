@@ -2,7 +2,7 @@
 #define __PROCESS_H__
 
 #include <stdint.h>
-#include "../thread/thread.h"
+#include "thread.h"
 
 typedef struct
 {
